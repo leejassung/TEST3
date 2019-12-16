@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GetAcupunctured",
+"productVersion": "1.0",
+"dataUrl": "web1216.data.unityweb",
+"wasmCodeUrl": "web1216.wasm.code.unityweb",
+"wasmFrameworkUrl": "web1216.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
